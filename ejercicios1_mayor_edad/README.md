@@ -1,4 +1,4 @@
-# EJERCICIO Q ESTRUCTURAS CONDICIONALES
+# EJERCICIO 1 ESTRUCTURAS CONDICIONALES
 
 ## Programa  para verificar si usted es mayor de edad
 
